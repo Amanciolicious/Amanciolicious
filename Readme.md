@@ -1,5 +1,5 @@
 ### Profile Visits:
-![](https://komarev.com/ghpvc/?username=Amanciolcious&color=ffc300)
+![](https://komarev.com/ghpvc/?username=Amanciolcious&color=16697a)
 
 ------------------------------------------- 
 
