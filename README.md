@@ -3,7 +3,7 @@
 
 ------------------------------------------- 
 
-https://raw.githubusercontent.com/Amanciolicious/main/assets/nielvinn.gif
+https://githubusercontent.com/NielvinAmancio/main/assets/nielvinn.gif
 
 -----------------------------------------------
 ### Socials: 
