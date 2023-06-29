@@ -3,7 +3,8 @@
 
 ------------------------------------------- 
 
-[![@Amanciolicious](https://raw.githubusercontent.com/Amanciolicious/main/assets/nielvinn.gif)]
+https://raw.githubusercontent.com/Amanciolicious/main/assets/nielvinn.gif
+
 -----------------------------------------------
 ### Socials: 
 <a href="https://instagram.com/a6.nielvinn"><img src="https://img.shields.io/badge/a6.nielvinn-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
