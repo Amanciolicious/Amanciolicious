@@ -17,9 +17,9 @@
 
 ### Current Status Quo:
 
-- Front-end Developer
-- I’m looking for connections in <strong>Web Development</strong> Industry.
-- Feel free to discuss with me about <strong>Web Development</strong>.
+- Beginner Flutter Developer
+- I’m looking for connections in <strong>Mobile Development</strong> Industry.
+- Feel free to discuss with me about <strong>Flutter Basics</strong>.
 
 -----------------------------------------------
 
